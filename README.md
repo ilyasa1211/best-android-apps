@@ -1,6 +1,6 @@
 # Best Android Apps
 
-Actually may not the best apps, just apps that I use.
+Collections of android apps for developers and modders.
 
 windows app
 ...
